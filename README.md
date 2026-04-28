@@ -362,3 +362,15 @@ v2.3 — pitch deck PPTX
 v2.4 — prototype execution bridge
 v2.5 — pilot outreach CRM
 ```
+
+---
+
+## v2.1 TAPFORGE Upgrade
+
+Added printable investor one-pager and public brief assets.
+
+Current stage:
+
+```text
+v2.1 = Printable investor/public assets
+```
