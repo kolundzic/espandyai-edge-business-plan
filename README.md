@@ -434,3 +434,15 @@ Current stage:
 ```text
 v2.6 = Demo execution readiness
 ```
+
+---
+
+## v2.7 TAPFORGE Upgrade
+
+Added investor data room index and due diligence answers.
+
+Current stage:
+
+```text
+v2.7 = Investor data room readiness
+```
