@@ -422,3 +422,15 @@ Current stage:
 ```text
 v2.5 = Pilot outreach and CRM readiness
 ```
+
+---
+
+## v2.6 TAPFORGE Upgrade
+
+Added demo day runbook and founder demo script.
+
+Current stage:
+
+```text
+v2.6 = Demo execution readiness
+```
