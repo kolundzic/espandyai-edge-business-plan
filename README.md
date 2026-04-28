@@ -127,3 +127,16 @@ Current stage:
 v0.3 = Header + public positioning + outreach readiness
 ```
 
+
+---
+
+## v0.4 TAPFORGE Upgrade
+
+The repository now includes prototype execution planning, device-to-Director flow diagrams, and beginner-friendly technical glossary.
+
+Current stage:
+
+```text
+v0.4 = Prototype execution + technical pilot readiness
+```
+
