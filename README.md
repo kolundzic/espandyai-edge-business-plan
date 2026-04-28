@@ -410,3 +410,15 @@ Current stage:
 ```text
 v2.4 = Technical prototype bridge readiness
 ```
+
+---
+
+## v2.5 TAPFORGE Upgrade
+
+Added pilot outreach CRM template and pilot pipeline playbook.
+
+Current stage:
+
+```text
+v2.5 = Pilot outreach and CRM readiness
+```

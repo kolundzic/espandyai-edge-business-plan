@@ -1,0 +1,6 @@
+company,contact_name,email,industry,country,use_case,status,next_step,priority,notes
+Example Office Co.,,,office,Japan,office node,lead,send intro,medium,
+Example Workshop,,,"repair / lab",Japan,workshop node,lead,book demo,high,
+Example School,,,education,Japan,education node,lead,send brief,medium,
+Example Hotel,,,hospitality,Japan,custom business node,lead,explore pilot,medium,
+Example Documentation Team,,,technical support,Japan,docs node,lead,send pilot offer,high,
