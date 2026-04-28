@@ -258,3 +258,15 @@ Current stage:
 ```text
 v1.2 = Full investor pitch deck text
 ```
+
+---
+
+## v1.3 TAPFORGE Upgrade
+
+Added landing page structure and Next.js component spec.
+
+Current stage:
+
+```text
+v1.3 = Landing page build readiness
+```
