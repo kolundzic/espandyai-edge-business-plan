@@ -318,3 +318,15 @@ Current stage:
 ```text
 v1.7 = Public narrative and press readiness
 ```
+
+---
+
+## v1.8 TAPFORGE Upgrade
+
+Added metrics plan, investor data room structure, and pilot report template.
+
+Current stage:
+
+```text
+v1.8 = Metrics and data room readiness
+```
