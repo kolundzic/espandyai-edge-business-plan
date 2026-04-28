@@ -446,3 +446,15 @@ Current stage:
 ```text
 v2.7 = Investor data room readiness
 ```
+
+---
+
+## v2.8 TAPFORGE Upgrade
+
+Added launch operations calendar and post-launch feedback loop.
+
+Current stage:
+
+```text
+v2.8 = Launch operations readiness
+```
