@@ -270,3 +270,15 @@ Current stage:
 ```text
 v1.3 = Landing page build readiness
 ```
+
+---
+
+## v1.4 TAPFORGE Upgrade
+
+Added productization blueprint and device SKU matrix.
+
+Current stage:
+
+```text
+v1.4 = Product family and SKU readiness
+```
