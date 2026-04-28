@@ -282,3 +282,15 @@ Current stage:
 ```text
 v1.4 = Product family and SKU readiness
 ```
+
+---
+
+## v1.5 TAPFORGE Upgrade
+
+Added partner/pilot pack and pilot discovery worksheet.
+
+Current stage:
+
+```text
+v1.5 = Partner and pilot execution readiness
+```
