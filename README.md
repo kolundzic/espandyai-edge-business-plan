@@ -192,3 +192,16 @@ Current stage:
 v0.8 = Investor diligence readiness
 ```
 
+
+---
+
+## v0.9 TAPFORGE Upgrade
+
+The repository now includes public launch kit and executive dossier.
+
+Current stage:
+
+```text
+v0.9 = Public launch and executive dossier readiness
+```
+
