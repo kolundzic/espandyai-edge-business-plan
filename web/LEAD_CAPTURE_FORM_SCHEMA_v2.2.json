@@ -1,0 +1,45 @@
+{
+  "project": "ESPAndyAI EDGE",
+  "version": "v2.2",
+  "forms": {
+    "pilot_request": {
+      "fields": [
+        "name",
+        "email",
+        "company",
+        "country",
+        "industry",
+        "use_case",
+        "number_of_devices",
+        "timeline",
+        "budget_range",
+        "message"
+      ],
+      "required": ["name", "email", "company", "use_case"]
+    },
+    "developer_waitlist": {
+      "fields": [
+        "name",
+        "email",
+        "country",
+        "developer_or_business",
+        "hardware_experience",
+        "interest_level",
+        "message"
+      ],
+      "required": ["name", "email", "interest_level"]
+    },
+    "investor_request": {
+      "fields": [
+        "name",
+        "email",
+        "fund_or_company",
+        "country",
+        "ticket_size_range",
+        "interest_area",
+        "message"
+      ],
+      "required": ["name", "email", "fund_or_company"]
+    }
+  }
+}

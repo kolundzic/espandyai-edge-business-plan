@@ -374,3 +374,15 @@ Current stage:
 ```text
 v2.1 = Printable investor/public assets
 ```
+
+---
+
+## v2.2 TAPFORGE Upgrade
+
+Added Next.js landing implementation spec and lead capture schema.
+
+Current stage:
+
+```text
+v2.2 = Landing implementation readiness
+```
