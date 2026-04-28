@@ -342,3 +342,23 @@ Current stage:
 ```text
 v1.9 = Commercial operations readiness
 ```
+
+---
+
+# v2.0 TAPFORGE Expansion
+
+The repository has reached **v2.0** as an investor-grade visual, pitch, landing, productization, partner, supplier, press, metrics, and operations expansion.
+
+```text
+v2.0 = external packaging and investor-grade commercialization readiness
+```
+
+Next recommended stage:
+
+```text
+v2.1 — investor one-page PDF brief
+v2.2 — public landing page implementation
+v2.3 — pitch deck PPTX
+v2.4 — prototype execution bridge
+v2.5 — pilot outreach CRM
+```
