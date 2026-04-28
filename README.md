@@ -398,3 +398,15 @@ Current stage:
 ```text
 v2.3 = Pitch deck production readiness
 ```
+
+---
+
+## v2.4 TAPFORGE Upgrade
+
+Added prototype repository bridge and firmware MVP contract.
+
+Current stage:
+
+```text
+v2.4 = Technical prototype bridge readiness
+```
