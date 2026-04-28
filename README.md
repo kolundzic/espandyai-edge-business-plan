@@ -470,3 +470,23 @@ Current stage:
 ```text
 v2.9 = External review and legal-safe presentation readiness
 ```
+
+---
+
+# v3.0 TAPFORGE Expansion
+
+The repository has reached **v3.0** as an external presentation, investor asset, landing, demo, pilot, and prototype bridge readiness package.
+
+```text
+v3.0 = external execution readiness
+```
+
+Next recommended stage:
+
+```text
+v3.1 — PDF/export pack
+v3.2 — landing page code scaffold
+v3.3 — pitch deck PPTX
+v3.4 — technical prototype repo bootstrap
+v3.5 — pilot outreach execution pack
+```
