@@ -294,3 +294,15 @@ Current stage:
 ```text
 v1.5 = Partner and pilot execution readiness
 ```
+
+---
+
+## v1.6 TAPFORGE Upgrade
+
+Added supplier/BOM strategy and CSV BOM template.
+
+Current stage:
+
+```text
+v1.6 = Procurement and BOM readiness
+```
