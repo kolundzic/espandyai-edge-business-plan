@@ -222,3 +222,27 @@ Canonical line:
 Small Node. Big Brain. Human Command.
 ```
 
+
+---
+
+## v1.1 TAPFORGE Upgrade
+
+Added investor-grade visual system and image-generation prompts for hero device, system architecture, trust model, and production roadmap.
+
+Current stage:
+
+```text
+v1.1 = Investor visual language
+```
+
+---
+
+## v1.1 TAPFORGE Upgrade
+
+Added investor-grade visual system and image-generation prompts for hero device, system architecture, trust model, and production roadmap.
+
+Current stage:
+
+```text
+v1.1 = Investor visual language
+```
