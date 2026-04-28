@@ -205,3 +205,20 @@ Current stage:
 v0.9 = Public launch and executive dossier readiness
 ```
 
+
+---
+
+# v1.0 Canonical Release
+
+This repository has reached v1.0 as a complete business, investor, marketing, and production planning dossier for ESPAndyAI EDGE / Director Node.
+
+```text
+v1.0 = Founder review + investor/pilot presentation readiness
+```
+
+Canonical line:
+
+```text
+Small Node. Big Brain. Human Command.
+```
+
