@@ -330,3 +330,15 @@ Current stage:
 ```text
 v1.8 = Metrics and data room readiness
 ```
+
+---
+
+## v1.9 TAPFORGE Upgrade
+
+Added commercial operations playbook and founder weekly dashboard.
+
+Current stage:
+
+```text
+v1.9 = Commercial operations readiness
+```
