@@ -153,3 +153,16 @@ Current stage:
 v0.5 = Production ladder + commercial batch planning
 ```
 
+
+---
+
+## v0.6 TAPFORGE Upgrade
+
+The repository now includes IP, brand, trust, and safety policies.
+
+Current stage:
+
+```text
+v0.6 = Legal clarity + trust/safety layer
+```
+
