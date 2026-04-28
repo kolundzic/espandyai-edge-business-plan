@@ -306,3 +306,15 @@ Current stage:
 ```text
 v1.6 = Procurement and BOM readiness
 ```
+
+---
+
+## v1.7 TAPFORGE Upgrade
+
+Added press narrative, public messaging, social copy, and founder bio.
+
+Current stage:
+
+```text
+v1.7 = Public narrative and press readiness
+```
