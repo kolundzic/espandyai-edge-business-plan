@@ -140,3 +140,16 @@ Current stage:
 v0.4 = Prototype execution + technical pilot readiness
 ```
 
+
+---
+
+## v0.5 TAPFORGE Upgrade
+
+The repository now includes commercial batch planning and batch-level finance.
+
+Current stage:
+
+```text
+v0.5 = Production ladder + commercial batch planning
+```
+
