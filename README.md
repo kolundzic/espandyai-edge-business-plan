@@ -386,3 +386,15 @@ Current stage:
 ```text
 v2.2 = Landing implementation readiness
 ```
+
+---
+
+## v2.3 TAPFORGE Upgrade
+
+Added pitch deck production script and slide asset checklist.
+
+Current stage:
+
+```text
+v2.3 = Pitch deck production readiness
+```
