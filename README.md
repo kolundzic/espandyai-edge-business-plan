@@ -179,3 +179,16 @@ Current stage:
 v0.7 = Pilot sales readiness
 ```
 
+
+---
+
+## v0.8 TAPFORGE Upgrade
+
+The repository now includes investor diligence checklist and investor narrative.
+
+Current stage:
+
+```text
+v0.8 = Investor diligence readiness
+```
+
