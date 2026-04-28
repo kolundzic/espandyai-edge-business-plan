@@ -166,3 +166,16 @@ Current stage:
 v0.6 = Legal clarity + trust/safety layer
 ```
 
+
+---
+
+## v0.7 TAPFORGE Upgrade
+
+The repository now includes pilot sales kit and customer FAQ.
+
+Current stage:
+
+```text
+v0.7 = Pilot sales readiness
+```
+
