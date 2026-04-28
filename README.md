@@ -458,3 +458,15 @@ Current stage:
 ```text
 v2.8 = Launch operations readiness
 ```
+
+---
+
+## v2.9 TAPFORGE Upgrade
+
+Added external presentation disclaimer and final external review checklist.
+
+Current stage:
+
+```text
+v2.9 = External review and legal-safe presentation readiness
+```
