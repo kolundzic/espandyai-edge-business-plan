@@ -246,3 +246,15 @@ Current stage:
 ```text
 v1.1 = Investor visual language
 ```
+
+---
+
+## v1.2 TAPFORGE Upgrade
+
+Added full 10-slide investor pitch deck text and slide design brief.
+
+Current stage:
+
+```text
+v1.2 = Full investor pitch deck text
+```
