@@ -114,3 +114,16 @@ Core v0.2 sentence:
 
 > First prove that the node breathes. Then prove that the market cares. Then prove that customers pay. Then investors do not listen to a story — they see evidence.
 
+
+---
+
+## v0.3 TAPFORGE Upgrade
+
+The repository now includes the canonical project header, TAPFORGE execution canon, public landing page copy, and outreach templates.
+
+Current stage:
+
+```text
+v0.3 = Header + public positioning + outreach readiness
+```
+
