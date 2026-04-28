@@ -95,3 +95,22 @@ Then sell the platform.
 Then scale the hardware.
 
 **Hardware opens the door. Director creates recurring value. Trust makes it business-grade.**
+
+---
+
+## v0.2 Investor Marketing and Production Polish
+
+This repository now includes the v0.2 TAPFORGE upgrade:
+
+- 90-day execution plan
+- investor memo
+- 10-slide pitch deck script
+- 90-day go-to-market campaign
+- prototype-to-batch roadmap
+- unit economics model
+- version lineage
+
+Core v0.2 sentence:
+
+> First prove that the node breathes. Then prove that the market cares. Then prove that customers pay. Then investors do not listen to a story — they see evidence.
+
