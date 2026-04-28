@@ -490,3 +490,28 @@ v3.3 — pitch deck PPTX
 v3.4 — technical prototype repo bootstrap
 v3.5 — pilot outreach execution pack
 ```
+
+---
+
+# v3.1 FINAL FOUNDER SEAL
+
+This repository is now locked as the canonical business / investor / marketing / production dossier for ESPAndyAI EDGE.
+
+```text
+v3.1 = Final Founder Seal + Continuation Map
+```
+
+Continuation now moves to focused execution tracks:
+
+```text
+technical prototype → andyai-director-edge-node
+landing page → public web implementation
+PDF/PPTX assets → investor artifact pack
+pilot execution → CRM / pilot tracker
+```
+
+Canonical stop rule:
+
+```text
+Plan here. Build elsewhere. Export cleanly. Pitch clearly. Pilot concretely.
+```
